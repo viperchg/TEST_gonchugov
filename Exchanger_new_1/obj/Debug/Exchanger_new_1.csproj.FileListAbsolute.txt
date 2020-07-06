@@ -1,0 +1,9 @@
+C:\Users\danii\source\repos\Exchanger_new_1\bin\Debug\Exchanger_new_1.exe.config
+C:\Users\danii\source\repos\Exchanger_new_1\bin\Debug\Exchanger_new_1.exe
+C:\Users\danii\source\repos\Exchanger_new_1\bin\Debug\Exchanger_new_1.pdb
+C:\Users\danii\source\repos\Exchanger_new_1\bin\Debug\ExchangeProvide.dll
+C:\Users\danii\source\repos\Exchanger_new_1\bin\Debug\ExchangeProvide.pdb
+C:\Users\danii\source\repos\Exchanger_new_1\obj\Debug\Exchanger_new_1.csprojAssemblyReference.cache
+C:\Users\danii\source\repos\Exchanger_new_1\obj\Debug\Exchanger_new_1.csproj.CopyComplete
+C:\Users\danii\source\repos\Exchanger_new_1\obj\Debug\Exchanger_new_1.exe
+C:\Users\danii\source\repos\Exchanger_new_1\obj\Debug\Exchanger_new_1.pdb

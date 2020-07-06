@@ -1,0 +1,4 @@
+C:\Users\danii\source\repos\ExchangeProvide\bin\Debug\ExchangeProvide.dll
+C:\Users\danii\source\repos\ExchangeProvide\bin\Debug\ExchangeProvide.pdb
+C:\Users\danii\source\repos\ExchangeProvide\obj\Debug\ExchangeProvide.dll
+C:\Users\danii\source\repos\ExchangeProvide\obj\Debug\ExchangeProvide.pdb
