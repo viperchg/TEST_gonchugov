@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList", "ToDoList.csproj", "{1E192209-B4D1-441F-B306-0F68CBF40FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "..\BL\BL.csproj", "{170B5FFC-154A-4C87-962C-3C5768A82511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Context", "..\Context\Context.csproj", "{E7D22473-7B49-49C6-BD43-6D694CB6DDD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoItemEntities", "..\ToDoItemEntities\ToDoItemEntities.csproj", "{5FB56278-90AE-49DA-94FF-6BD87DA3A189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E192209-B4D1-441F-B306-0F68CBF40FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E192209-B4D1-441F-B306-0F68CBF40FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E192209-B4D1-441F-B306-0F68CBF40FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E192209-B4D1-441F-B306-0F68CBF40FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{170B5FFC-154A-4C87-962C-3C5768A82511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170B5FFC-154A-4C87-962C-3C5768A82511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170B5FFC-154A-4C87-962C-3C5768A82511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170B5FFC-154A-4C87-962C-3C5768A82511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7D22473-7B49-49C6-BD43-6D694CB6DDD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D22473-7B49-49C6-BD43-6D694CB6DDD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D22473-7B49-49C6-BD43-6D694CB6DDD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D22473-7B49-49C6-BD43-6D694CB6DDD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FB56278-90AE-49DA-94FF-6BD87DA3A189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB56278-90AE-49DA-94FF-6BD87DA3A189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB56278-90AE-49DA-94FF-6BD87DA3A189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB56278-90AE-49DA-94FF-6BD87DA3A189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64FE6B39-F281-49C0-89C8-E06A57478FE2}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/daniilgon
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ..\\BL\\BL.csproj
+		SccProjectName1 = ../BL
+		SccLocalPath1 = ..\\BL
+		SccProjectUniqueName2 = ..\\Context\\Context.csproj
+		SccProjectName2 = ../Context
+		SccLocalPath2 = ..\\Context
+		SccProjectUniqueName3 = ..\\ToDoItemEntities\\ToDoItemEntities.csproj
+		SccProjectName3 = ../ToDoItemEntities
+		SccLocalPath3 = ..\\ToDoItemEntities
+		SccProjectUniqueName4 = ToDoList.csproj
+		SccLocalPath4 = .
+	EndGlobalSection
+EndGlobal

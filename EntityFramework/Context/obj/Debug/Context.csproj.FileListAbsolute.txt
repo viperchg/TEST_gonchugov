@@ -1,0 +1,12 @@
+C:\Users\danii\source\repos\Context\bin\Debug\Context.dll
+C:\Users\danii\source\repos\Context\bin\Debug\Context.pdb
+C:\Users\danii\source\repos\Context\bin\Debug\EntityFramework.dll
+C:\Users\danii\source\repos\Context\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danii\source\repos\Context\bin\Debug\ToDoItemEntities.dll
+C:\Users\danii\source\repos\Context\bin\Debug\ToDoItemEntities.pdb
+C:\Users\danii\source\repos\Context\bin\Debug\EntityFramework.xml
+C:\Users\danii\source\repos\Context\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danii\source\repos\Context\obj\Debug\Context.csprojAssemblyReference.cache
+C:\Users\danii\source\repos\Context\obj\Debug\Context.csproj.CopyComplete
+C:\Users\danii\source\repos\Context\obj\Debug\Context.dll
+C:\Users\danii\source\repos\Context\obj\Debug\Context.pdb

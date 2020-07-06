@@ -1,0 +1,4 @@
+C:\Users\danii\source\repos\ToDoItemEntities\bin\Debug\ToDoItemEntities.dll
+C:\Users\danii\source\repos\ToDoItemEntities\bin\Debug\ToDoItemEntities.pdb
+C:\Users\danii\source\repos\ToDoItemEntities\obj\Debug\ToDoItemEntities.dll
+C:\Users\danii\source\repos\ToDoItemEntities\obj\Debug\ToDoItemEntities.pdb
